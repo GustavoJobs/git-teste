@@ -1,0 +1,1 @@
+insert into user(id,nome) values (1,'Gustavo');
